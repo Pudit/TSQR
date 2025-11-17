@@ -18,7 +18,7 @@ function App() {
       <br />
 
       proposal: &nbsp;
-      <a href="https://google.com">
+      <a href="/TSQR/15_418_proposal.pdf" target="_blank">
         link
       </a>
     </>
