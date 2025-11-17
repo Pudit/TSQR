@@ -17,7 +17,7 @@ function App() {
       <img src={pic} width="500px"/>
       <br />
 
-      proposal: &nbsp;
+      Proposal: &nbsp;
       <a href="/TSQR/15_418_proposal.pdf" target="_blank">
         link
       </a>
