@@ -1,5 +1,8 @@
 name: TSQR CI/CD
 
+permissions:
+  contents: write
+  
 # Trigger on push or PR to main branch
 on:
   push:
