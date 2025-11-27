@@ -11,8 +11,16 @@ function App() {
       <h2>
         15-418/15-618: The tall, skinny QR (TSQR) decomposition
       </h2>
-      Name: Chutchatut Sutichavengkul, Pudit Tempattarachoke
+      {/* Name: &nbsp; */}
+      <a href="https://linkedin.com/in/chutchatut" target="_blank"> 
+      Chutchatut Sutichavengkul
+      </a>
+      ,&nbsp;
+      <a href="https://linkedin.com/in/pudit" target="_blank">
+      Pudit Tempattarachoke
+      </a>
       <br />
+      Carnegie Mellon University
       <br />
       <img src={pic} width="500px" />
       <br />
