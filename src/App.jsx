@@ -19,6 +19,11 @@ function App() {
       <a href="/TSQR/15_418_proposal.pdf" target="_blank">
         link
       </a>
+      <br />
+      Midsemester Report: &nbsp;
+      <a href="/TSQR/15_418_milestone.pdf" target="_blank">
+        link
+      </a>
     </>
   )
 }
