@@ -12,12 +12,12 @@ function App() {
         15-418/15-618: The tall, skinny QR (TSQR) decomposition
       </h2>
       {/* Name: &nbsp; */}
-      <a href="https://linkedin.com/in/chutchatut" target="_blank"> 
-      Chutchatut Sutichavengkul
+      <a href="https://linkedin.com/in/chutchatut" target="_blank">
+        Chutchatut Sutichavengkul
       </a>
       ,&nbsp;
       <a href="https://linkedin.com/in/pudit" target="_blank">
-      Pudit Tempattarachoke
+        Pudit Tempattarachoke
       </a>
       <br />
       Carnegie Mellon University
@@ -33,12 +33,20 @@ function App() {
         <FontAwesomeIcon icon={faFilePdf} /> Midsemester Report
       </a>
       <br />
+      <a href="/TSQR/15_418_final.pdf" target="_blank">
+        <FontAwesomeIcon icon={faFilePdf} /> Final Report
+      </a>
+      <br />
       <a href="https://github.com/Pudit/TSQR_IMPL/tree/OpenMP" target="_blank">
         <FontAwesomeIcon icon={faGithub} /> OpenMP
       </a>
       <br />
       <a href="https://github.com/Pudit/TSQR_IMPL/tree/OpenMPI" target="_blank">
         <FontAwesomeIcon icon={faGithub} /> OpenMPI
+      </a>
+      <br />
+      <a href="https://github.com/Pudit/TSQR_IMPL/tree/CUDA" target="_blank">
+        <FontAwesomeIcon icon={faGithub} /> CUDA
       </a>
     </>
   )
